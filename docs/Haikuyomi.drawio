@@ -1,0 +1,210 @@
+<mxfile host="Electron" modified="2023-08-03T01:42:04.645Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) draw.io/21.6.1 Chrome/112.0.5615.204 Electron/24.6.1 Safari/537.36" etag="quzZYB_CabJMxEu6JQ1z" version="21.6.1" type="device" pages="2">
+  <diagram name="概要" id="Nk5eHztUGqiwYjNHXdGo">
+    <mxGraphModel dx="712" dy="820" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="95s9NvIuZ7P1NwV9Gdgg-16" value="" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="70" y="230" width="1200" height="375" as="geometry" />
+        </mxCell>
+        <mxCell id="95s9NvIuZ7P1NwV9Gdgg-1" value="" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="110" y="285" width="360" height="270" as="geometry" />
+        </mxCell>
+        <mxCell id="95s9NvIuZ7P1NwV9Gdgg-2" value="SeasonWord" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="155" y="320" width="270" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="95s9NvIuZ7P1NwV9Gdgg-3" value="SeasonWord" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="155" y="390" width="270" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="95s9NvIuZ7P1NwV9Gdgg-5" value="FirstLine" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
+          <mxGeometry x="140" y="250" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="95s9NvIuZ7P1NwV9Gdgg-6" value="" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="500" y="282.5" width="360" height="270" as="geometry" />
+        </mxCell>
+        <mxCell id="95s9NvIuZ7P1NwV9Gdgg-7" value="SeasonWord" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="545" y="317.5" width="270" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="95s9NvIuZ7P1NwV9Gdgg-8" value="SeasonWord" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="545" y="387.5" width="270" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="95s9NvIuZ7P1NwV9Gdgg-9" value="SeasonWord" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="545" y="457.5" width="270" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="95s9NvIuZ7P1NwV9Gdgg-10" value="SecondLine" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
+          <mxGeometry x="530" y="247.5" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="95s9NvIuZ7P1NwV9Gdgg-11" value="" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="890" y="282.5" width="360" height="270" as="geometry" />
+        </mxCell>
+        <mxCell id="95s9NvIuZ7P1NwV9Gdgg-12" value="SeasonWord" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="935" y="317.5" width="270" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="95s9NvIuZ7P1NwV9Gdgg-13" value="SeasonWord" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="935" y="387.5" width="270" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="95s9NvIuZ7P1NwV9Gdgg-15" value="ThirdLine" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
+          <mxGeometry x="920" y="247.5" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="95s9NvIuZ7P1NwV9Gdgg-17" value="Haiku" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
+          <mxGeometry x="70" y="200" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="95s9NvIuZ7P1NwV9Gdgg-18" value="&lt;h2&gt;&lt;b&gt;ハイク・パワーの算出&lt;/b&gt;&lt;/h2&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
+          <mxGeometry x="70" y="650" width="360" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="95s9NvIuZ7P1NwV9Gdgg-19" value="&lt;h3&gt;1. 各季語のバリューを計算&lt;/h3&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
+          <mxGeometry x="90" y="690" width="470" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="95s9NvIuZ7P1NwV9Gdgg-20" value="&lt;h3&gt;2. 各句のバリューを計算（句に含まれる季語の相乗）&lt;/h3&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
+          <mxGeometry x="90" y="780" width="470" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="95s9NvIuZ7P1NwV9Gdgg-21" value="&lt;h3&gt;3. ハイク・パワーの計算（各句の総乗）&lt;/h3&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
+          <mxGeometry x="90" y="870" width="470" height="30" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+  <diagram id="qixNd7-syeURpsx-g4rZ" name="ゲームフロー">
+    <mxGraphModel dx="838" dy="973" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="Qv7Osn9yP_h6A4BJuO2R-1" value="" style="endArrow=none;dashed=1;html=1;dashPattern=1 3;strokeWidth=2;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="40" y="320" as="sourcePoint" />
+            <mxPoint x="800" y="320" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Qv7Osn9yP_h6A4BJuO2R-2" value="&lt;h2&gt;初期準備フェーズ&lt;/h2&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="40" y="30" width="170" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="Qv7Osn9yP_h6A4BJuO2R-3" value="" style="shape=actor;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="81.66" y="110" width="86.67" height="130" as="geometry" />
+        </mxCell>
+        <mxCell id="Qv7Osn9yP_h6A4BJuO2R-4" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="210" y="170" width="30" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Qv7Osn9yP_h6A4BJuO2R-14" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="220" y="170" width="30" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Qv7Osn9yP_h6A4BJuO2R-15" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="230" y="170" width="30" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Qv7Osn9yP_h6A4BJuO2R-16" value="" style="shape=actor;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="570" y="120" width="86.67" height="130" as="geometry" />
+        </mxCell>
+        <mxCell id="Qv7Osn9yP_h6A4BJuO2R-17" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="499.9999999999999" y="180" width="30" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Qv7Osn9yP_h6A4BJuO2R-18" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="509.9999999999999" y="180" width="30" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Qv7Osn9yP_h6A4BJuO2R-19" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="519.9999999999999" y="180" width="30" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Qv7Osn9yP_h6A4BJuO2R-20" value="&lt;div style=&quot;text-align: justify;&quot;&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;プレイヤーは、手札として一定量のカードを配られる。カードには季語、または季語ではない単語が記述されている。&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;text-align: justify;&quot;&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;&lt;br&gt;&lt;/span&gt;&lt;/div&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="40" y="280" width="750" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="Qv7Osn9yP_h6A4BJuO2R-21" value="&lt;h2&gt;構築フェーズ&lt;/h2&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="40" y="360" width="170" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="Qv7Osn9yP_h6A4BJuO2R-22" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="100" y="435" width="160" height="300" as="geometry" />
+        </mxCell>
+        <mxCell id="Qv7Osn9yP_h6A4BJuO2R-23" value="&lt;b&gt;たそがれ&lt;/b&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="120" y="500" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Qv7Osn9yP_h6A4BJuO2R-25" value="&lt;b&gt;の&lt;/b&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="120" y="610" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Qv7Osn9yP_h6A4BJuO2R-26" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="333" y="435" width="160" height="300" as="geometry" />
+        </mxCell>
+        <mxCell id="Qv7Osn9yP_h6A4BJuO2R-27" value="&lt;b&gt;クソデカ&lt;/b&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="353" y="500" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Qv7Osn9yP_h6A4BJuO2R-28" value="&lt;b&gt;鳶（とんび）&lt;/b&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="353" y="610" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Qv7Osn9yP_h6A4BJuO2R-29" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="570" y="435" width="160" height="300" as="geometry" />
+        </mxCell>
+        <mxCell id="Qv7Osn9yP_h6A4BJuO2R-30" value="&lt;b&gt;パイナップル&lt;/b&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="590" y="555" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Qv7Osn9yP_h6A4BJuO2R-32" value="手元にある手札を使い、「上の句」「中の句」「下の句」を作成する。" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="40.5" y="800" width="749" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="Qv7Osn9yP_h6A4BJuO2R-34" value="" style="endArrow=none;dashed=1;html=1;dashPattern=1 3;strokeWidth=2;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="40" y="840" as="sourcePoint" />
+            <mxPoint x="800" y="840" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Qv7Osn9yP_h6A4BJuO2R-35" value="&lt;h2&gt;勝負フェーズ&lt;/h2&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="39.99" y="870" width="170" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="Qv7Osn9yP_h6A4BJuO2R-44" value="" style="group" vertex="1" connectable="0" parent="1">
+          <mxGeometry x="20.000000000000004" y="930" width="336" height="160" as="geometry" />
+        </mxCell>
+        <mxCell id="Qv7Osn9yP_h6A4BJuO2R-36" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="Qv7Osn9yP_h6A4BJuO2R-44">
+          <mxGeometry width="85.33333333333333" height="160" as="geometry" />
+        </mxCell>
+        <mxCell id="Qv7Osn9yP_h6A4BJuO2R-37" value="&lt;b&gt;たそがれ&lt;/b&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="Qv7Osn9yP_h6A4BJuO2R-44">
+          <mxGeometry x="10.666666666666666" y="34.666666666666664" width="64" height="32" as="geometry" />
+        </mxCell>
+        <mxCell id="Qv7Osn9yP_h6A4BJuO2R-38" value="&lt;b&gt;の&lt;/b&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="Qv7Osn9yP_h6A4BJuO2R-44">
+          <mxGeometry x="10.666666666666666" y="93.33333333333333" width="64" height="32" as="geometry" />
+        </mxCell>
+        <mxCell id="Qv7Osn9yP_h6A4BJuO2R-39" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="Qv7Osn9yP_h6A4BJuO2R-44">
+          <mxGeometry x="124.26666666666667" width="85.33333333333333" height="160" as="geometry" />
+        </mxCell>
+        <mxCell id="Qv7Osn9yP_h6A4BJuO2R-40" value="&lt;b&gt;クソデカ&lt;/b&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="Qv7Osn9yP_h6A4BJuO2R-44">
+          <mxGeometry x="134.93333333333334" y="34.666666666666664" width="64" height="32" as="geometry" />
+        </mxCell>
+        <mxCell id="Qv7Osn9yP_h6A4BJuO2R-41" value="&lt;b&gt;鳶（とんび）&lt;/b&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="Qv7Osn9yP_h6A4BJuO2R-44">
+          <mxGeometry x="134.93333333333334" y="93.33333333333333" width="64" height="32" as="geometry" />
+        </mxCell>
+        <mxCell id="Qv7Osn9yP_h6A4BJuO2R-42" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="Qv7Osn9yP_h6A4BJuO2R-44">
+          <mxGeometry x="250.66666666666666" width="85.33333333333333" height="160" as="geometry" />
+        </mxCell>
+        <mxCell id="Qv7Osn9yP_h6A4BJuO2R-43" value="&lt;b&gt;パイナップル&lt;/b&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="Qv7Osn9yP_h6A4BJuO2R-44">
+          <mxGeometry x="261.3333333333333" y="64" width="64" height="32" as="geometry" />
+        </mxCell>
+        <mxCell id="Qv7Osn9yP_h6A4BJuO2R-54" value="" style="group" vertex="1" connectable="0" parent="1">
+          <mxGeometry x="470" y="930" width="336" height="160" as="geometry" />
+        </mxCell>
+        <mxCell id="Qv7Osn9yP_h6A4BJuO2R-55" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="Qv7Osn9yP_h6A4BJuO2R-54">
+          <mxGeometry width="85.33333333333333" height="160" as="geometry" />
+        </mxCell>
+        <mxCell id="Qv7Osn9yP_h6A4BJuO2R-56" value="&lt;b&gt;たそがれ&lt;/b&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="Qv7Osn9yP_h6A4BJuO2R-54">
+          <mxGeometry x="10.666666666666666" y="34.666666666666664" width="64" height="32" as="geometry" />
+        </mxCell>
+        <mxCell id="Qv7Osn9yP_h6A4BJuO2R-57" value="&lt;b&gt;の&lt;/b&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="Qv7Osn9yP_h6A4BJuO2R-54">
+          <mxGeometry x="10.666666666666666" y="93.33333333333333" width="64" height="32" as="geometry" />
+        </mxCell>
+        <mxCell id="Qv7Osn9yP_h6A4BJuO2R-58" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="Qv7Osn9yP_h6A4BJuO2R-54">
+          <mxGeometry x="124.26666666666667" width="85.33333333333333" height="160" as="geometry" />
+        </mxCell>
+        <mxCell id="Qv7Osn9yP_h6A4BJuO2R-59" value="&lt;b&gt;クソデカ&lt;/b&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="Qv7Osn9yP_h6A4BJuO2R-54">
+          <mxGeometry x="134.93333333333334" y="34.666666666666664" width="64" height="32" as="geometry" />
+        </mxCell>
+        <mxCell id="Qv7Osn9yP_h6A4BJuO2R-60" value="&lt;b&gt;鳶（とんび）&lt;/b&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="Qv7Osn9yP_h6A4BJuO2R-54">
+          <mxGeometry x="134.93333333333334" y="93.33333333333333" width="64" height="32" as="geometry" />
+        </mxCell>
+        <mxCell id="Qv7Osn9yP_h6A4BJuO2R-61" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="Qv7Osn9yP_h6A4BJuO2R-54">
+          <mxGeometry x="250.66666666666666" width="85.33333333333333" height="160" as="geometry" />
+        </mxCell>
+        <mxCell id="Qv7Osn9yP_h6A4BJuO2R-62" value="&lt;b&gt;パイナップル&lt;/b&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="Qv7Osn9yP_h6A4BJuO2R-54">
+          <mxGeometry x="261.3333333333333" y="64" width="64" height="32" as="geometry" />
+        </mxCell>
+        <mxCell id="Qv7Osn9yP_h6A4BJuO2R-63" value="VS" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="385" y="990" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="Qv7Osn9yP_h6A4BJuO2R-64" value="作った句から「ハイク・パワー」を算出し、対決する。高いほうが勝者。" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="40" y="1120" width="749" height="30" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
